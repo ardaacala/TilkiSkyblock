@@ -1,0 +1,22 @@
+world: tilki_skyblock
+island-spacing: 256
+storage-capacities: [10000, 50000, 250000, 1000000]
+storage-upgrade-prices: [0, 25000, 150000, 750000]
+border-radii: [25, 50, 75, 100]
+border-upgrade-prices: [0, 20000, 100000, 500000]
+generator-upgrade-prices: [0, 30000, 150000, 600000]
+member-limits: [2, 4, 6, 10]
+member-upgrade-prices: [0, 25000, 125000, 500000]
+piston-limits: [500, 1000, 1500, 2000, 3000]
+piston-upgrade-prices: [0, 20000, 75000, 200000, 600000]
+sell-prices:
+  COBBLESTONE: 1.0
+  STONE: 2.0
+  WHEAT: 3.0
+  CARROT: 3.0
+  POTATO: 3.0
+  IRON_INGOT: 15.0
+  COPPER_INGOT: 8.0
+  GOLD_INGOT: 25.0
+  DIAMOND: 100.0
+  EMERALD: 125.0

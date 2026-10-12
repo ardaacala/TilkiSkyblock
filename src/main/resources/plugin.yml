@@ -1,0 +1,14 @@
+name: TilkiSkyblock
+version: 1.0.0
+main: com.tilkicraft.skyblock.TilkiSkyblock
+api-version: '1.21'
+author: TilkiCraft
+softdepend: [Vault]
+commands:
+  is:
+    description: Ada menüsü ve ada komutları
+    usage: /is [create|home|invite|join|leave|kick]
+    aliases: [island, ada]
+permissions:
+  tilkiskyblock.admin:
+    default: op
